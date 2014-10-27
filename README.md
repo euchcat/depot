@@ -1,4 +1,4 @@
 depot
 =====
 
-c'est un dépôt et pas un dépotoir :)
+Dépot de fichiers et documents indépendants de tout projet ou communs à tous les projets.
